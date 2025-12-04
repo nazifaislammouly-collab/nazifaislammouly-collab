@@ -1,12 +1,21 @@
-# 💫 About Me:
+# 💫 About Me
+
 <img align="right" alt="Pixel art coding" width="400" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif" />
 
-👋 Hi, I’m **Nazifa Islam** — CSE student at **BRAC University**, turning course concepts into real code.<br>
-🔭 I’m currently working on=Small Python, C, and C++ projects to turn my CSE courses into real code.<br>
-👯 I’m looking to collaborate on=Beginner‑friendly side projects where we can learn and laugh through the bugs together.<br>
-🤝 I’m looking for help with=Writing cleaner code, understanding tricky algorithms, and turning ideas into finished projects.<br>
-🌱 I’m currently learning=C, C++, Python, data structures, algorithms, and the art of not panicking at compiler errors.<br>💬 Ask me about=My CSE journey at BRAC, how I study, or the projects I’m slowly adding to GitHub.<br>
-⚡ Fun fact=I treat every “it doesn’t work” as a challenge to eventually say “wait, I actually did it!”.
+👋 Hi, I’m **Nazifa Islam** — a CSE student at **BRAC University** who loves turning course concepts into real code.
+
+🔭 I’m currently working on small Python, C, and C++ projects to practice what I learn in class.
+
+👯 I’d love to collaborate on beginner‑friendly side projects where we can learn together and laugh through the bugs.
+
+🤝 I’m looking for help with writing cleaner code, understanding tricky algorithms, and actually finishing projects instead of just starting them.
+
+🌱 Right now I’m learning C, C++, Python, data structures, algorithms, and the art of not panicking at compiler errors.
+
+💬 Ask me about my CSE journey at BRAC, how I study, or the projects I’m slowly adding to GitHub.
+
+⚡ Fun fact: I treat every “it doesn’t work” as a challenge to eventually say, *“wait, I actually did it!”*.
+
 
 
 ## 🌐 Socials:
